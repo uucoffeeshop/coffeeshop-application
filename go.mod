@@ -22,6 +22,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/pkg/errors v0.9.1
 	github.com/rabbitmq/amqp091-go v1.8.1
+	github.com/samber/lo v1.38.1
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/automaxprocs v1.5.2
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df

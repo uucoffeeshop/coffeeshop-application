@@ -225,6 +225,107 @@
 }
 
 
+.bg-teal-50,
+.hover\:bg-teal-50:hover {
+    background-color: #e0f2f1;
+}
+
+.bg-teal-100,
+.hover\:bg-teal-100:hover {
+    background-color: #b2dfdb;
+}
+
+.bg-teal-200,
+.hover\:bg-teal-200:hover {
+    background-color: #80cbc4;
+}
+
+.bg-teal-300,
+.hover\:bg-teal-300:hover {
+    background-color: #4db6ac;
+}
+
+.bg-teal-400,
+.hover\:bg-teal-400:hover {
+    background-color: #26a69a;
+}
+
+.bg-teal-500,
+.hover\:bg-teal-500:hover {
+    background-color: #009688;
+}
+
+.bg-teal-600,
+.hover\:bg-teal-600:hover {
+    background-color: #00897b;
+}
+
+.bg-teal-700,
+.hover\:bg-teal-700:hover {
+    background-color: #00796b;
+}
+
+.bg-teal-800,
+.hover\:bg-teal-800:hover {
+    background-color: #00695c;
+}
+
+.bg-teal-900,
+.hover\:bg-teal-900:hover {
+    background-color: #004d40;
+}
+
+.text-teal-50,
+.hover\:text-teal-50:hover {
+    color: #e0f2f1;
+}
+
+.text-teal-100,
+.hover\:text-teal-100:hover {
+    color: #b2dfdb;
+}
+
+.text-teal-200,
+.hover\:text-teal-200:hover {
+    color: #80cbc4;
+}
+
+.text-teal-300,
+.hover\:text-teal-300:hover {
+    color: #4db6ac;
+}
+
+.text-teal-400,
+.hover\:text-teal-400:hover {
+    color: #26a69a;
+}
+
+.text-teal-500,
+.hover\:text-teal-500:hover {
+    color: #009688;
+}
+
+.text-teal-600,
+.hover\:text-teal-600:hover {
+    color: #00897b;
+}
+
+.text-teal-700,
+.hover\:text-teal-700:hover {
+    color: #00796b;
+}
+
+.text-teal-800,
+.hover\:text-teal-800:hover {
+    color: #00695c;
+}
+
+.text-teal-900,
+.hover\:text-teal-900:hover {
+    color: #004d40;
+}
+
+
 .nowrap {
     white-space: nowrap;
 }

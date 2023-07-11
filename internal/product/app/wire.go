@@ -5,10 +5,10 @@ package app
 
 import (
 	"github.com/google/wire"
-	"github.com/uucoffeeshop/coffeeshop-applicationp/cmd/product/config"
-	"github.com/uucoffeeshop/coffeeshop-applicationp/internal/product/app/router"
-	"github.com/uucoffeeshop/coffeeshop-applicationp/internal/product/infras/repo"
-	productsUC "github.com/uucoffeeshop/coffeeshop-applicationp/internal/product/usecases/products"
+	"github.com/uucoffeeshop/coffeeshop-application/cmd/product/config"
+	"github.com/uucoffeeshop/coffeeshop-application/internal/product/app/router"
+	"github.com/uucoffeeshop/coffeeshop-application/internal/product/infras/repo"
+	productsUC "github.com/uucoffeeshop/coffeeshop-application/internal/product/usecases/products"
 	"google.golang.org/grpc"
 )
 

@@ -25,6 +25,7 @@ require (
 )
 
 require (
+	github.com/golang/glog v1.1.1
 	github.com/google/wire v0.5.0
 	github.com/ilyakaznacheev/cleanenv v1.4.2
 	github.com/lib/pq v1.10.9

@@ -82,3 +82,31 @@
 .text-blue-gray-900, .hover\:text-blue-gray-900:hover {
     color: #263238;
 }
+
+
+.nowrap {
+    white-space: nowrap;
+    }
+    
+    .glass {
+        background-color: rgba(100, 120, 130, .6);
+        backdrop-filter: blur(10px);
+    }
+    
+    table td {
+        vertical-align: top;
+    }
+    
+    #receipt-content {
+        max-height: 70vh;
+    }
+    
+    @media print {
+        .hide-print {
+            display: none !important;
+        }
+    
+        .print-area {
+            display: block;
+        }
+    }
